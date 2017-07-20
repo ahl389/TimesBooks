@@ -1,7 +1,7 @@
 require "times_books/version"
 require "times_books/request"
-require "times_books/client"
 require "times_books/list"
+require "times_books/client"
 
 module TimesBooks
   class << self
