@@ -28,6 +28,8 @@ TimesBooks.configure(
 )
 ```
 
+If you need an API key, you can grab one here: https://developer.nytimes.com/signup
+
 #### Connecting to the API
 
 Create a new client (probably in a model):
@@ -37,6 +39,8 @@ client = TimesBooks::Client.new()
 ```
 
 #### Making Queries
+
+For more details, you can explore the API over here: https://developer.nytimes.com/books_api.json
 
 ##### Get List By Name
 
