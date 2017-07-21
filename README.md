@@ -1,6 +1,6 @@
 # TimesBooks
 
-This is a light ruby API client for the New York Times' Books API.
+This is a lightweight ruby API client for the New York Times' Books API.
 
 
 
